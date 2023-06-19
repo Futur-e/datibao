@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d6898ff-e825-48c9-a1ab-158059c6f7d4" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OYlDfjptW0m41qtstx9LpLOBCD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/文档/项目2/小程序接单/shuati/public&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\installAPP\\WebStorm 2022.3.1\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Desktop\文档\项目2\小程序接单\shuati\public" />
+      <recent name="E:\Desktop\文档\项目2\小程序接单\shuati\src\components" />
+      <recent name="E:\Desktop\文档\项目2\小程序接单\shuati\src\assets" />
+      <recent name="E:\Desktop\文档\项目2\小程序接单\shuati" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Desktop\文档\项目2\小程序接单\shuati\src\image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="aa.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/JSON/aa.js" working-dir="$PROJECT_DIR$/JSON">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.aa.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="6d6898ff-e825-48c9-a1ab-158059c6f7d4" name="变更" comment="" />
+      <created>1681745278423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681745278423</updated>
+      <workItem from="1681745280798" duration="1894000" />
+      <workItem from="1681787351305" duration="23800000" />
+      <workItem from="1682212960552" duration="12512000" />
+      <workItem from="1682352571150" duration="10978000" />
+      <workItem from="1682869455409" duration="17914000" />
+      <workItem from="1683012396712" duration="17519000" />
+      <workItem from="1683115073394" duration="32672000" />
+      <workItem from="1683360182972" duration="215000" />
+      <workItem from="1683360447793" duration="18681000" />
+      <workItem from="1683518572919" duration="12751000" />
+      <workItem from="1683597848874" duration="66815000" />
+      <workItem from="1683772031600" duration="25121000" />
+      <workItem from="1683859571100" duration="11141000" />
+      <workItem from="1683880785359" duration="15756000" />
+      <workItem from="1684290533000" duration="2104000" />
+      <workItem from="1684292702476" duration="269000" />
+      <workItem from="1684293517066" duration="1777000" />
+      <workItem from="1686926687922" duration="1606000" />
+      <workItem from="1687008364745" duration="1800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+    <style>
+        .commentguest{
+            width: 2em;
+            height: 2em;
+            top: 2.2em;
+            position: relative;
+        }
+        .commentguest img{
+            width:100%;
+            height: auto;
+        }
+        .comment-input{
+            transition: all 0.5s ease 0s;
+            font-family: "微软雅黑";
+            font-size: 1.1em;
+            position: relative;
+            left: 3.1em;
+        }
+        .commentarea{
+            position:absolute;
+            padding: 0.6em 1em;
+            border: 0.1em solid black;
+            background: #fff none repeat scroll 0 0;
+            width:34em;
+            z-index: 2;
+        }
+        .commentarea textarea{
+            border: 0 none;
+            display: block;
+            outline: 0 none;
+            resize: none;
+            width:32em;
+            height: 2em;
+
+        }
+        .comment-input:hover .commentarea{
+            height: 11.37em;
+        }
+        .comment-input:hover .commentarea textarea{
+            height:7em;
+        }
+        .comment-input:hover .commentbtn{
+            top:6em;
+            z-index: 3;
+        }
+        .commentbtn{
+            border: 0 none;
+            bottom: 2em;
+            height: 3.3em;
+            padding: 0;
+            left: 0.1em;
+            width:33.9em;
+            position: relative;
+            transition:top 0.1s ease 0s;
+
+        }
+        .commentmask{
+            border: 0 none;
+            top:2em;
+            height: 100%;
+            padding: 0;
+            right: 0;
+            width:33.9em;
+            background-color: #f4f5f6;
+            position: relative;
+            z-index: 1;
+        }
+        .getcomment{
+            width:6em;
+            float: right;
+            bottom: 1.2em;
+            position: relative;
+            width:6.7em;
+            height: 100%;
+            z-index:3;
+            background-color:#3f404c;
+            color: #fff;
+            line-height: 1.9em;
+            text-align: center;
+            font-size: 1.1em;
+        }
+        .getcomment:hover{
+            background-color: #AC2925;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+<div class="comment-add">
+    <div class="commentguest">
+        <img src="img/guest.png" class="img-circle">
+    </div>
+    <div id="comment-input" class="comment-input">
+        <div class="commentarea">
+            <textarea  id="content" rows="6" cols="80" onpropertychange="if(this.scrollHeight> 80)this.style.posHeight=this.scrollHeight+5" placeholder="请写下您的评论"></textarea>
+        </div>
+        <div class="commentbtn">
+            <div class="commentmask"></div>
+            <a href="javascript:;" class="getcomment btn btn-block" role="button">评论</a>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
